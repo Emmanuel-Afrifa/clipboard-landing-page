@@ -17,8 +17,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ![Screenshot of the webpage](./images/Web%20capture_28-5-2023_132746_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/clipboard-landing-page)
+- [Deployed site](https://clipboard-landing-page-sol.netlify.app/)
 
 ## Process
 ### Tools Used
